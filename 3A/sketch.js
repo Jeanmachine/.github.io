@@ -18,10 +18,18 @@ function draw(){
       var b = i/12 * PI;
       translate(sin(2 * a) * radius * sin(b), cos(b) * radius / 2 , cos(2 * a) * radius * sin(b));
       if(j%2 === 0){
-        cone(130, 130);
+        cone(90, 90);
       }else{
+        cone(40, 40, 40);
       }
       pop();
     }
   }
+}
+
+function draw() {
+
+	rotateY(map(mouseX, 0, width, 0, PI));
+	rotateX(map(mouseY, 0, height, 0, PI));
+	box(250);
 }
