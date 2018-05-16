@@ -5,7 +5,8 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;  
-  color: 566b78;
+  color: #555;
+  background: #f5f7f9;
 }
 
 h1 {
