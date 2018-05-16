@@ -11,3 +11,9 @@ body {
 h1 {
   padding: 20px 0px 10px 0px;
 }
+
+h1,
+h2,
+strong {
+  color: #333;
+}
