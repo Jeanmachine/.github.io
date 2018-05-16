@@ -4,15 +4,14 @@ body {
   font-family: "Economica", "Economica", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
-}
-body {
-text-align: center;
+  text-align: center;  
 }
 
 a {
 color: #69CBBB;
 text-decoration: none;
 }
+
 h1 {
   padding: 20px 0px 10px 0px;
 }
