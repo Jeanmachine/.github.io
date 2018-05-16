@@ -5,15 +5,8 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;  
-  color: #555;
+  color: #500;
 }  
-
-code,
-pre {
-  background: #f5f7f9;
-  border-bottom: 1px solid #d8dee9;
-  color: #a7adba;
-}
 
 h1 {
   padding: 20px 0px 10px 0px;
