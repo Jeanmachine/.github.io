@@ -10,3 +10,8 @@ body {
 h1 {
   padding: 20px 0px 10px 0px;
 }
+
+a {
+color: #62CBBB;
+text-decoration: none;
+}
